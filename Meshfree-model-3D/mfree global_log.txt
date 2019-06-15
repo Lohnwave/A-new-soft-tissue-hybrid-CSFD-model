@@ -1,0 +1,229 @@
+------ Project Conversion started on 2016/7/13 at 14:40 - Project: mfree global ------
+
+Creating configuration context: mfree global - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: mfree global - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+mfree global project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Doctor LI\Desktop\Final global-point-press-3D - surface\mfree global_log.txt"
+
+
+------ Project Conversion started on 2016/8/12 at 13:49 - Project: mfree global ------
+
+Creating configuration context: mfree global - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: mfree global - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+mfree global project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Administrator\Desktop\article 3\Final global-point-press-3D - surface121\mfree global_log.txt"
+
+
+------ Project Conversion started on 2016/8/12 at 14:12 - Project: mfree global ------
+
+Creating configuration context: mfree global - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: mfree global - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+mfree global project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Administrator\Desktop\article 3\Final global-point-press-3D - surface121-all nodes\mfree global_log.txt"
+
+
+------ Project Conversion started on 2016/8/21 at 15:39 - Project: mfree global ------
+
+Creating configuration context: mfree global - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: mfree global - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+mfree global project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Administrator\Desktop\article 3\Final global-point-press-3D - surface121-all nodes\mfree global_log.txt"
+
+
+------ Project Conversion started on 2016/9/18 at 17:20 - Project: mfree global ------
+
+Creating configuration context: mfree global - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: mfree global - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+mfree global project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Administrator\Desktop\article 3\Final global-point-press-3D - surface121-all nodes\mfree global_log.txt"
+
+
+------ Project Conversion started on 2016/9/18 at 17:35 - Project: mfree global ------
+
+Creating configuration context: mfree global - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: mfree global - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+mfree global project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Administrator\Desktop\article 3\Final global-point-press-3D - surface121-all nodes-force-3D\mfree global_log.txt"
+
+
+------ Project Conversion started on 2016/11/15 at 15:44 - Project: mfree global ------
+
+Creating configuration context: mfree global - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: mfree global - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file parameter.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Release 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+Creating a custom build step in configuration context mfree global - Win32 Debug 
+Custom build step will generate a Fortran include file from file variables.h 
+Command created: deftofd "$(InputPath)" "$(InputDir)$(InputName).fd" 
+
+mfree global project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Doctor LI\Desktop\项目文件\曲面拟合软组织\Final global-point-press-3D - surface121-all nodes-force-3D\mfree global_log.txt"
