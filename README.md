@@ -4,4 +4,4 @@ Background When the meshless method is used to establish the mathematical-mechan
 
 ![Fig1](https://github.com/Lohnwave/A-new-soft-tissue-hybrid-CSFD-model/raw/master/3.png)
 ![Fig2](https://github.com/Lohnwave/A-new-soft-tissue-hybrid-CSFD-model/raw/master/1.jpg)
-![Fig3](https://github.com/Lohnwave/A-new-soft-tissue-hybrid-CSFD-model/raw/master/5.png)
+![Fig3](https://github.com/Lohnwave/A-new-soft-tissue-hybrid-CSFD-model/raw/master/5.jpg)
