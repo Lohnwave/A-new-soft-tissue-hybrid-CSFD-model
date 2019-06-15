@@ -3,5 +3,7 @@ Background When the meshless method is used to establish the mathematical-mechan
 ## Deformable element soft tissue model
 
 ![Fig1](https://github.com/Lohnwave/A-new-soft-tissue-hybrid-CSFD-model/raw/master/3.png)
+## hybrid-CSFD-model
 ![Fig2](https://github.com/Lohnwave/A-new-soft-tissue-hybrid-CSFD-model/raw/master/1.jpg)
+## soft tissue model implementation
 ![Fig3](https://github.com/Lohnwave/A-new-soft-tissue-hybrid-CSFD-model/raw/master/5.jpg)
